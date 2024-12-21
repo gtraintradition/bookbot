@@ -52,7 +52,6 @@ def main():
         print(f"Found '{char}' {count} times")
     print(f"\n")
     print(f"--- Have a nice day ---")
-    print(char_count)
 
 
 main()
